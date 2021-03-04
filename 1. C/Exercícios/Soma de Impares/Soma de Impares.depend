@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603308051 source:c:\users\gustavo souza\desktop\linguagem c\c\exercícios\soma de impares\main.c
+	<stdio.h>
+	<stdlib.h>
+

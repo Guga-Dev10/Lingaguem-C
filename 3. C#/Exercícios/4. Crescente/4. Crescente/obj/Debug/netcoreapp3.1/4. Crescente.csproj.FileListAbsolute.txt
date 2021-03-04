@@ -1,0 +1,12 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\bin\Debug\netcoreapp3.1\4. Crescente.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\bin\Debug\netcoreapp3.1\4. Crescente.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\bin\Debug\netcoreapp3.1\4. Crescente.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\bin\Debug\netcoreapp3.1\4. Crescente.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\bin\Debug\netcoreapp3.1\4. Crescente.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\bin\Debug\netcoreapp3.1\4. Crescente.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\obj\Debug\netcoreapp3.1\4. Crescente.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\obj\Debug\netcoreapp3.1\4. Crescente.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\obj\Debug\netcoreapp3.1\4. Crescente.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\obj\Debug\netcoreapp3.1\4. Crescente.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\obj\Debug\netcoreapp3.1\4. Crescente.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\4. Crescente\4. Crescente\obj\Debug\netcoreapp3.1\4. Crescente.genruntimeconfig.cache

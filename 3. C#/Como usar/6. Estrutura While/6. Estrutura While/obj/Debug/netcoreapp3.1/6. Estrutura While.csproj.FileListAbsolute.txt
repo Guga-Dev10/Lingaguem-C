@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\bin\Debug\netcoreapp3.1\6. Estrutura While.exe
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\bin\Debug\netcoreapp3.1\6. Estrutura While.deps.json
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\bin\Debug\netcoreapp3.1\6. Estrutura While.runtimeconfig.json
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\bin\Debug\netcoreapp3.1\6. Estrutura While.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\bin\Debug\netcoreapp3.1\6. Estrutura While.dll
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\bin\Debug\netcoreapp3.1\6. Estrutura While.pdb
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\obj\Debug\netcoreapp3.1\6. Estrutura While.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\obj\Debug\netcoreapp3.1\6. Estrutura While.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\obj\Debug\netcoreapp3.1\6. Estrutura While.AssemblyInfo.cs
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\obj\Debug\netcoreapp3.1\6. Estrutura While.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\obj\Debug\netcoreapp3.1\6. Estrutura While.dll
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\obj\Debug\netcoreapp3.1\6. Estrutura While.pdb
+C:\Users\Gustavo Souza\source\repos\6. Estrutura While\6. Estrutura While\obj\Debug\netcoreapp3.1\6. Estrutura While.genruntimeconfig.cache

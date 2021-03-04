@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603304156 source:c:\users\gustavo souza\desktop\linguagem c\c\exercícios\media idades\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

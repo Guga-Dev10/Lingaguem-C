@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\bin\Debug\netcoreapp3.1\2. Idades.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\bin\Debug\netcoreapp3.1\2. Idades.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\bin\Debug\netcoreapp3.1\2. Idades.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\bin\Debug\netcoreapp3.1\2. Idades.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\bin\Debug\netcoreapp3.1\2. Idades.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\bin\Debug\netcoreapp3.1\2. Idades.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\obj\Debug\netcoreapp3.1\2. Idades.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\obj\Debug\netcoreapp3.1\2. Idades.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\obj\Debug\netcoreapp3.1\2. Idades.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\obj\Debug\netcoreapp3.1\2. Idades.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\obj\Debug\netcoreapp3.1\2. Idades.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\obj\Debug\netcoreapp3.1\2. Idades.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\2. Idades\2. Idades\obj\Debug\netcoreapp3.1\2. Idades.genruntimeconfig.cache

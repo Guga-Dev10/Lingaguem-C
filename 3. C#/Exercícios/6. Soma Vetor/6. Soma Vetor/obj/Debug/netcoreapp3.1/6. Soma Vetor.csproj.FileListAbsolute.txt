@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\obj\Debug\netcoreapp3.1\6. Soma Vetor.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\obj\Debug\netcoreapp3.1\6. Soma Vetor.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\obj\Debug\netcoreapp3.1\6. Soma Vetor.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\obj\Debug\netcoreapp3.1\6. Soma Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\bin\Debug\netcoreapp3.1\6. Soma Vetor.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\bin\Debug\netcoreapp3.1\6. Soma Vetor.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\bin\Debug\netcoreapp3.1\6. Soma Vetor.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\bin\Debug\netcoreapp3.1\6. Soma Vetor.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\bin\Debug\netcoreapp3.1\6. Soma Vetor.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\bin\Debug\netcoreapp3.1\6. Soma Vetor.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\obj\Debug\netcoreapp3.1\6. Soma Vetor.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\obj\Debug\netcoreapp3.1\6. Soma Vetor.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\6. Soma Vetor\6. Soma Vetor\obj\Debug\netcoreapp3.1\6. Soma Vetor.genruntimeconfig.cache

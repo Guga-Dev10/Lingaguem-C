@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\bin\Debug\netcoreapp3.1\9. Vetores.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\bin\Debug\netcoreapp3.1\9. Vetores.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\bin\Debug\netcoreapp3.1\9. Vetores.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\bin\Debug\netcoreapp3.1\9. Vetores.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\bin\Debug\netcoreapp3.1\9. Vetores.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\bin\Debug\netcoreapp3.1\9. Vetores.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\obj\Debug\netcoreapp3.1\9. Vetores.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\obj\Debug\netcoreapp3.1\9. Vetores.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\obj\Debug\netcoreapp3.1\9. Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\obj\Debug\netcoreapp3.1\9. Vetores.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\obj\Debug\netcoreapp3.1\9. Vetores.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\obj\Debug\netcoreapp3.1\9. Vetores.genruntimeconfig.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\9. Vetores\9. Vetores\obj\Debug\netcoreapp3.1\9. Vetores.csprojAssemblyReference.cache

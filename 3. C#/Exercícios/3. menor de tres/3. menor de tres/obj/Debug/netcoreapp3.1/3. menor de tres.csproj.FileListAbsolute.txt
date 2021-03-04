@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\obj\Debug\netcoreapp3.1\3. menor de tres.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\obj\Debug\netcoreapp3.1\3. menor de tres.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\obj\Debug\netcoreapp3.1\3. menor de tres.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\obj\Debug\netcoreapp3.1\3. menor de tres.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\bin\Debug\netcoreapp3.1\3. menor de tres.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\bin\Debug\netcoreapp3.1\3. menor de tres.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\bin\Debug\netcoreapp3.1\3. menor de tres.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\bin\Debug\netcoreapp3.1\3. menor de tres.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\bin\Debug\netcoreapp3.1\3. menor de tres.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\bin\Debug\netcoreapp3.1\3. menor de tres.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\obj\Debug\netcoreapp3.1\3. menor de tres.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\obj\Debug\netcoreapp3.1\3. menor de tres.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\3. menor de tres\3. menor de tres\obj\Debug\netcoreapp3.1\3. menor de tres.genruntimeconfig.cache

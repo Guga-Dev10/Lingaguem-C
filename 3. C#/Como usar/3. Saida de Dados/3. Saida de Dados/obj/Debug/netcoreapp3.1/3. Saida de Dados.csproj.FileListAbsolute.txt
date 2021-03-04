@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\bin\Debug\netcoreapp3.1\3. Saida de Dados.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\bin\Debug\netcoreapp3.1\3. Saida de Dados.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\bin\Debug\netcoreapp3.1\3. Saida de Dados.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\bin\Debug\netcoreapp3.1\3. Saida de Dados.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\bin\Debug\netcoreapp3.1\3. Saida de Dados.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\bin\Debug\netcoreapp3.1\3. Saida de Dados.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\obj\Debug\netcoreapp3.1\3. Saida de Dados.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\obj\Debug\netcoreapp3.1\3. Saida de Dados.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\obj\Debug\netcoreapp3.1\3. Saida de Dados.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\obj\Debug\netcoreapp3.1\3. Saida de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\obj\Debug\netcoreapp3.1\3. Saida de Dados.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\obj\Debug\netcoreapp3.1\3. Saida de Dados.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\3. Saida de Dados\3. Saida de Dados\obj\Debug\netcoreapp3.1\3. Saida de Dados.genruntimeconfig.cache

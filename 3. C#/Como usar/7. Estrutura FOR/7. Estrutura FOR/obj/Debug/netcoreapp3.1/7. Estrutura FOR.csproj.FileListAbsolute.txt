@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\bin\Debug\netcoreapp3.1\7. Estrutura FOR.exe
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\bin\Debug\netcoreapp3.1\7. Estrutura FOR.deps.json
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\bin\Debug\netcoreapp3.1\7. Estrutura FOR.runtimeconfig.json
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\bin\Debug\netcoreapp3.1\7. Estrutura FOR.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\bin\Debug\netcoreapp3.1\7. Estrutura FOR.dll
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\bin\Debug\netcoreapp3.1\7. Estrutura FOR.pdb
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\obj\Debug\netcoreapp3.1\7. Estrutura FOR.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\obj\Debug\netcoreapp3.1\7. Estrutura FOR.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\obj\Debug\netcoreapp3.1\7. Estrutura FOR.AssemblyInfo.cs
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\obj\Debug\netcoreapp3.1\7. Estrutura FOR.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\obj\Debug\netcoreapp3.1\7. Estrutura FOR.dll
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\obj\Debug\netcoreapp3.1\7. Estrutura FOR.pdb
+C:\Users\Gustavo Souza\source\repos\7. Estrutura FOR\7. Estrutura FOR\obj\Debug\netcoreapp3.1\7. Estrutura FOR.genruntimeconfig.cache

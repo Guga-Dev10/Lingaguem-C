@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\bin\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\bin\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\bin\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\bin\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\bin\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\bin\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\obj\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\obj\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\obj\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\obj\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\obj\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\obj\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\2. Tipos de dados e variaveis\2. Tipos de dados e variaveis\obj\Debug\netcoreapp3.1\2. Tipos de dados e variaveis.genruntimeconfig.cache

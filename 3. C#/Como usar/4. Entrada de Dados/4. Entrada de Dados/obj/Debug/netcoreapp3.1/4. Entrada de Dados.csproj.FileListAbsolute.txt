@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\obj\Debug\netcoreapp3.1\4. Entrada de Dados.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\obj\Debug\netcoreapp3.1\4. Entrada de Dados.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\obj\Debug\netcoreapp3.1\4. Entrada de Dados.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\obj\Debug\netcoreapp3.1\4. Entrada de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\bin\Debug\netcoreapp3.1\4. Entrada de Dados.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\bin\Debug\netcoreapp3.1\4. Entrada de Dados.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\bin\Debug\netcoreapp3.1\4. Entrada de Dados.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\bin\Debug\netcoreapp3.1\4. Entrada de Dados.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\bin\Debug\netcoreapp3.1\4. Entrada de Dados.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\bin\Debug\netcoreapp3.1\4. Entrada de Dados.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\obj\Debug\netcoreapp3.1\4. Entrada de Dados.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\obj\Debug\netcoreapp3.1\4. Entrada de Dados.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\4. Entrada de Dados\4. Entrada de Dados\obj\Debug\netcoreapp3.1\4. Entrada de Dados.genruntimeconfig.cache

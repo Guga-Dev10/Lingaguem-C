@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\obj\Debug\netcoreapp3.1\5. Soma de Impares.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\obj\Debug\netcoreapp3.1\5. Soma de Impares.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\obj\Debug\netcoreapp3.1\5. Soma de Impares.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\obj\Debug\netcoreapp3.1\5. Soma de Impares.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\bin\Debug\netcoreapp3.1\5. Soma de Impares.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\bin\Debug\netcoreapp3.1\5. Soma de Impares.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\bin\Debug\netcoreapp3.1\5. Soma de Impares.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\bin\Debug\netcoreapp3.1\5. Soma de Impares.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\bin\Debug\netcoreapp3.1\5. Soma de Impares.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\bin\Debug\netcoreapp3.1\5. Soma de Impares.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\obj\Debug\netcoreapp3.1\5. Soma de Impares.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\obj\Debug\netcoreapp3.1\5. Soma de Impares.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\5. Soma de Impares\5. Soma de Impares\obj\Debug\netcoreapp3.1\5. Soma de Impares.genruntimeconfig.cache

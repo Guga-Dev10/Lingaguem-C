@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\bin\Debug\netcoreapp3.1\7. Diagonal Negativos.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\bin\Debug\netcoreapp3.1\7. Diagonal Negativos.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\bin\Debug\netcoreapp3.1\7. Diagonal Negativos.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\bin\Debug\netcoreapp3.1\7. Diagonal Negativos.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\bin\Debug\netcoreapp3.1\7. Diagonal Negativos.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\bin\Debug\netcoreapp3.1\7. Diagonal Negativos.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\obj\Debug\netcoreapp3.1\7. Diagonal Negativos.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\obj\Debug\netcoreapp3.1\7. Diagonal Negativos.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\obj\Debug\netcoreapp3.1\7. Diagonal Negativos.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\obj\Debug\netcoreapp3.1\7. Diagonal Negativos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\obj\Debug\netcoreapp3.1\7. Diagonal Negativos.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\obj\Debug\netcoreapp3.1\7. Diagonal Negativos.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Exercícios\7. Diagonal Negativos\7. Diagonal Negativos\obj\Debug\netcoreapp3.1\7. Diagonal Negativos.genruntimeconfig.cache

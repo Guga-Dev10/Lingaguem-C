@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\bin\Debug\netcoreapp3.1\5. If-Else.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\bin\Debug\netcoreapp3.1\5. If-Else.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\bin\Debug\netcoreapp3.1\5. If-Else.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\bin\Debug\netcoreapp3.1\5. If-Else.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\bin\Debug\netcoreapp3.1\5. If-Else.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\bin\Debug\netcoreapp3.1\5. If-Else.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\obj\Debug\netcoreapp3.1\5. If-Else.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\obj\Debug\netcoreapp3.1\5. If-Else.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\obj\Debug\netcoreapp3.1\5. If-Else.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\obj\Debug\netcoreapp3.1\5. If-Else.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\obj\Debug\netcoreapp3.1\5. If-Else.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\obj\Debug\netcoreapp3.1\5. If-Else.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\5. If-Else\5. If-Else\obj\Debug\netcoreapp3.1\5. If-Else.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\bin\Debug\netcoreapp3.1\Ola mundo.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\bin\Debug\netcoreapp3.1\Ola mundo.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\bin\Debug\netcoreapp3.1\Ola mundo.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\bin\Debug\netcoreapp3.1\Ola mundo.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\bin\Debug\netcoreapp3.1\Ola mundo.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\bin\Debug\netcoreapp3.1\Ola mundo.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\obj\Debug\netcoreapp3.1\Ola mundo.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\obj\Debug\netcoreapp3.1\Ola mundo.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\obj\Debug\netcoreapp3.1\Ola mundo.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\obj\Debug\netcoreapp3.1\Ola mundo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\obj\Debug\netcoreapp3.1\Ola mundo.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\obj\Debug\netcoreapp3.1\Ola mundo.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\Ola mundo\Ola mundo\obj\Debug\netcoreapp3.1\Ola mundo.genruntimeconfig.cache

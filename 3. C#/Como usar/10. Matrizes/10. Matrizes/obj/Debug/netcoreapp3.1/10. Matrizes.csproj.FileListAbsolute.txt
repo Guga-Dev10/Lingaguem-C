@@ -1,0 +1,13 @@
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\bin\Debug\netcoreapp3.1\10. Matrizes.exe
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\bin\Debug\netcoreapp3.1\10. Matrizes.deps.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\bin\Debug\netcoreapp3.1\10. Matrizes.runtimeconfig.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\bin\Debug\netcoreapp3.1\10. Matrizes.runtimeconfig.dev.json
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\bin\Debug\netcoreapp3.1\10. Matrizes.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\bin\Debug\netcoreapp3.1\10. Matrizes.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\obj\Debug\netcoreapp3.1\10. Matrizes.csprojAssemblyReference.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\obj\Debug\netcoreapp3.1\10. Matrizes.AssemblyInfoInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\obj\Debug\netcoreapp3.1\10. Matrizes.AssemblyInfo.cs
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\obj\Debug\netcoreapp3.1\10. Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\obj\Debug\netcoreapp3.1\10. Matrizes.dll
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\obj\Debug\netcoreapp3.1\10. Matrizes.pdb
+C:\Users\Gustavo Souza\Desktop\Linguagem C\3. C#\Como usar\10. Matrizes\10. Matrizes\obj\Debug\netcoreapp3.1\10. Matrizes.genruntimeconfig.cache
